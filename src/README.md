@@ -1,0 +1,1 @@
+This repository is intended to contain up-to-date, as-simple-as-possible setup instructions for genomic deep learning models. Currently, it only contains instructions for setting up [DeepSEA on AWS](src/deepsea/README.md), but we (or you!) may add more in the future.
